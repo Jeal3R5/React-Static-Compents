@@ -14,12 +14,12 @@ const Sidebar=() => {
     return(
         <div className="sidebar">
             <ul>
-                <div className="dashboard">Dashboard</div>
-                <div className="widget">Widget</div>
-                <div className="sideReview">Reviews</div>
-                <div className="customers">Customers</div>
-                <div className="analysis">Online Analysis</div>
-                <div className="settings">Settings</div>
+                <div>Dashboard</div><br/>
+                <div>Widget</div><br/>
+                <div>Reviews</div><br/>
+                <div>Customers</div><br/>
+                <div>Online Analysis</div><br/>
+                <div>Settings</div><br/>
             </ul>
         </div>
     )

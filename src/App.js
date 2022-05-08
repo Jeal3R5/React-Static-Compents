@@ -10,7 +10,7 @@ import Visitors from "./components/Visitors";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Sidebar />
       <Review />
       <Rating />

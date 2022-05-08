@@ -1,6 +1,6 @@
 const Analysis = () => {
     return(
-        <div className="main-cards">
+        <div className="analysis">
             <div>Sentiment Analysis</div>
             <div>960</div>
             <div>122</div>
